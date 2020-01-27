@@ -4,10 +4,10 @@
 #
 Name     : php-yar
 Version  : 2.0.7
-Release  : 3
+Release  : 4
 URL      : https://pecl.php.net/get/yar-2.0.7.tgz
 Source0  : https://pecl.php.net/get/yar-2.0.7.tgz
-Summary  : Light, concurrent RPC framework
+Summary  : No detailed summary available
 Group    : Development/Tools
 License  : PHP-3.01
 Requires: php-yar-lib = %{version}-%{release}
@@ -46,4 +46,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20180731/yar.so
+/usr/lib64/extensions/no-debug-non-zts-20190902/yar.so
