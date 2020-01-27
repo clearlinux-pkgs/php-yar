@@ -4,7 +4,7 @@
 #
 Name     : php-yar
 Version  : 2.0.7
-Release  : 2
+Release  : 3
 URL      : https://pecl.php.net/get/yar-2.0.7.tgz
 Source0  : https://pecl.php.net/get/yar-2.0.7.tgz
 Summary  : Light, concurrent RPC framework
