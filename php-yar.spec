@@ -4,7 +4,7 @@
 #
 Name     : php-yar
 Version  : 2.2.0
-Release  : 11
+Release  : 12
 URL      : https://pecl.php.net/get/yar-2.2.0.tgz
 Source0  : https://pecl.php.net/get/yar-2.2.0.tgz
 Summary  : No detailed summary available
