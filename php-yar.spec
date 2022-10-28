@@ -4,7 +4,7 @@
 #
 Name     : php-yar
 Version  : 2.3.2
-Release  : 33
+Release  : 34
 URL      : https://pecl.php.net/get/yar-2.3.2.tgz
 Source0  : https://pecl.php.net/get/yar-2.3.2.tgz
 Summary  : No detailed summary available
